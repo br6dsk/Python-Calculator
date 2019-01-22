@@ -1,2 +1,2 @@
 # Py
-Besteiras em python que contribuirão pra meu total aprendizado.
+# Apenas pequenos testes e códigos pequenos para estudo.
