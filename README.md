@@ -1,6 +1,1 @@
-# Py
-
-
-/*
-Apenas pequenos testes e códigos pequenos para estudo.
-*/
+Calculadora feira em python para fins estudantis e aprendizado.
